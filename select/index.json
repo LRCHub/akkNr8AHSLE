@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Starry Night (GAME VERSION)",
+  "base_artist": "松永涼(CV:千菅春香)、三船美優(CV:原田彩楓)、森久保乃々(CV:高橋花林)、藤原肇(CV:鈴木みのり)、砂塚あきら(CV:富田美憂)",
+  "createdAt": "2026-02-06T17:37:11.132793Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starry Night(GAME VERSION)",
+      "artist": "松永涼(千菅春香),三船美優(原田彩楓),森久保乃々(高橋花林),藤原肇(鈴木みのり),砂塚あきら(富田美憂)",
+      "has_synced": false,
+      "path": "select/pl_01_Starry_Night(GAME_VERSION)_松永涼(千菅春香),三船美優(原田彩楓),森久保乃々(高橋花林),藤原肇(鈴木みのり),砂塚あきら(富田美憂).txt"
+    }
+  ]
+}
